@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-[App download](https://kjxbyz.com/dsvideo)
+[App download](https://kjxbyz.com/dsvideo) · [Play online](https://dsvideo.app)
