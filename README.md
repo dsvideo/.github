@@ -1,2 +1,3 @@
 # dsvideo
-Moved to https://github.com/alisoft/dsvideo
+
+A video application for managing videos on Synology NAS.
